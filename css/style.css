@@ -105,9 +105,13 @@ img {
 	width: calc(100% - 30px);
 }
 
+/*.offset-10 {
+	margin-left: 83.33333333333333%;
+}
+*/
 .header {
 	background-repeat: no-repeat;
-	/*background-size: cover;*/
+	background-size: cover;
 	background-image: url(../img/Background_header.jpg);
 }
 
@@ -182,17 +186,6 @@ img {
 	height: 21px;
 	z-index: -1;
 }
-
-.Shape_4_copy {
-  background-color: rgb(123, 238, 199);
-  position: absolute;
-  left: 529px;
-  top: 1111px;
-  width: 68px;
-  height: 21px;
-  z-index: 33;
-}
-
 
 .main__under-title {
 	padding-bottom: 18px;
